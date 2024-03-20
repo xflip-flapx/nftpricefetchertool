@@ -1,0 +1,37 @@
+{
+  "name": "nftpricefetchertool",
+  "version": "1.0.0",
+  "description": "Fetch NFT prices and data with a comprehensive tool for price tracking and analysis.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xflip-flapx/nftpricefetchertool"
+  },
+  "author": "xflip-flapx",
+  "license": "MIT",
+  "dependencies": {
+    "nftmetadatamanager": "1.0.0",
+    "nftpricefetchertool": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "helmet": "1.0.0",
+    "dotenv": "1.0.0",
+    "bluebird": "1.0.0",
+    "sinon": "1.0.0",
+    "firebase": "1.0.0",
+    "enzyme": "1.0.0",
+    "cheerio": "1.0.0",
+    "ejs": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "cors": "1.0.0",
+    "xml2js": "1.0.0",
+    "request": "1.0.0",
+    "axios": "1.0.0",
+    "web3-react": "1.0.0",
+    "express": "1.0.0",
+    "react-dom": "1.0.0",
+    "ipfs-http-client": "1.0.0"
+  }
+}
